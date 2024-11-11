@@ -9,6 +9,6 @@ int main() {
     Sleep(1000);
 
 
-    system("strart check.bat");
+    system("start check.bat");
     return 0;
 }
